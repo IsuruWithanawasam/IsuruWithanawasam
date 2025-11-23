@@ -1,104 +1,46 @@
-# 👋 Hi, I'm Isuru Chanilka
+<div align="center">
 
-🎓 *Erasmus Mundus LASCALA Master's Student*  
-🔬 *Photonics | Ultrafast Optics | Solid-State Physics*  
-🌍 Currently in Hungary → Sweden → France  
+# Hi, I'm Isuru Chanilka 👋
+### 🎓 Erasmus Mundus Master’s Student (LASCALA)
+*Photonics | Ultrafast Optics | Computational Physics*
 
-I’m passionate about lasers, light–matter interactions, optical instrumentation, and advanced spectroscopy. My work spans from ultrafast laser physics to applied optics and graphene-based nanomaterials.
+**Mobility Track:** 🇫🇷 **France** (Paris-Saclay) · 🇸🇪 **Sweden** (Lund) · 🇭🇺 **Hungary** (Szeged)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/isuru-withanawasam-11b237195)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:isuruwithanawasam98@gmail.com)
+
+---
+</div>
+
+## 🚀 About Me
+I am a physicist bridging the gap between **experimental photonics** and **computational modeling**. Currently focusing on femtosecond pulse propagation, laser physics simulations, and automated data analysis for optical experiments.
+
+* **Current Focus:** Ultrafast Laser Systems, Nonlinear Optics, & Pulse Compression.
+* **Background:** BSc (Hons) in Physics, University of Colombo (GPA: 3.55/4.0).
+
+## 💻 Simulations & Research
+
+### **⚡ Ultrafast & Femtosecond Physics**
+* **Laser Pulse Simulation:** Modeling femtosecond pulse propagation and dispersion compensation using **Python/MATLAB**.
+* **Nonlinear Optics:** Simulating light-matter interactions and harmonic generation.
+
+### **📊 Experimental Data Analysis**
+* **Spectroscopy Automation:** Processing large datasets from Raman, OCT, and Scattering experiments using **Pandas & SciPy**.
+* **Hyperspectral Imaging:** Analysis of remote sensing data (up to 1693 nm) with custom algorithms.
+* **Graphene Characterization:** Statistical analysis of adsorption performance (Presented at APS March Meeting 2024).
+
+## 🛠️ Tech & Lab Stack
+
+| **Core Languages** | **Data & Simulation (Python)** | **Hardware & Engineering** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) | ![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFD400?logo=ni&logoColor=black) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks&logoColor=white) |
+| | **Origin / LaTeX** | **Optical Alignment** |
 
 ---
 
-## 🔭 Research Interests
-- Ultrafast laser systems & nonlinear optics  
-- Light–matter interaction, femtosecond physics  
-- Optical instrumentation & applied photonics  
-- Raman, OCT, THz-TDTS, and scattering spectroscopy  
-- Graphene-based materials & nanotechnology  
-- Fiber optics & optical communication  
-- Hyperspectral and remote sensing data analysis  
+<div align="center">
 
----
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## 🧪 Research Experience
-
-### **Microplastic Adsorption with Graphene Nanomaterials**  
-*2023–2024 · University of Colombo*  
-- Development of magnetic-reduced graphene oxide (MrGO)  
-- Characterization & adsorption performance evaluation
-
-### **Aflatoxin Adsorbent Using Graphene Nanomaterials**  
-*BSc Thesis · 2022–2023*  
-- Synthesis & optimization of graphene materials  
-- Spectroscopic and structural characterization
-
-### **Low-Cost SPR Sensor (Cu/Graphene/ITO)**  
-*Volunteer Research · 2022–2023*  
-- Designed and tested a surface plasmon resonance sensor  
-- Focused on optical alignment and signal optimization  
-
----
-
-## 📚 Education
-
-### 🎓 **Erasmus Mundus Joint Master’s – LASCALA**  
-**Szeged University (HU) → Lund University (SE) → Paris-Saclay University (FR)**  
-Courses: Femtosecond Optics, Nonlinear Optics, AMO Physics, Quantum Solid-State Physics, Laser Physics, Optoelectronics, Biophotonics.
-
-### 🎓 **BSc (Hons) in Physics** – *University of Colombo, Sri Lanka*  
-Second Class Upper · GPA: **3.55/4.00**
-
----
-
-## 🛠️ Skills
-
-### **Programming & Tools**
-- Python, MATLAB, C, Java  
-- Arduino, ESP32 (embedded systems)  
-- LabVIEW, Origin, Multisim, EAGLE  
-- LaTeX (Overleaf), MS Office  
-
-### **Experimental & Technical**
-- Optical alignment & laser operation  
-- Raman, OCT, scattering & spectroscopy techniques  
-- Data acquisition, DOE, precision measurement  
-- Troubleshooting & instrumentation design  
-
----
-
-## 📡 Projects
-- 3D OCT microscopy system for biological imaging  
-- Milk scattering characterization using goniometry  
-- Raman spectroscopy of graphene oxide under tensile strain  
-- Hyperspectral imaging analysis (1693 nm upper limit data)  
-
----
-
-## 🎤 Conferences
-- **APS March Meeting 2024** — Microplastic Removal Using MrGO  
-- **Annual Research Symposium 2022** — Low-Cost SPR Sensor  
-
----
-
-## 🏅 Leadership & Volunteering
-- Vice President — *Physics Society, University of Colombo*  
-- Director (SD) — *Leo Club*  
-- Science outreach: Science Bus, SIPSARA, Sarasavi Piyagata  
-
----
-
-## 📊 GitHub Overview
-
-![Visitor Count](https://komarev.com/ghpvc/?username=IsuruWithanawasam&style=flat)
-
-![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true)
-
-
----
-
-## 📫 Contact
-📧 **isuruwithanawasam98@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/isuru-withanawasam-11b237195  
-
----
-
-⭐ *Thanks for visiting my profile — feel free to explore my repositories or reach out for collaboration!*
+</div>
