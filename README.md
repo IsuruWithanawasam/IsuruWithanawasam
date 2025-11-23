@@ -15,8 +15,8 @@
 ## 🚀 About Me
 I am a physicist bridging the gap between **experimental photonics** and **computational modeling**. Currently focusing on femtosecond pulse propagation, laser physics simulations, and automated data analysis for optical experiments.
 
-* **Current Focus:** Ultrafast Laser Systems, Nonlinear Optics, & Pulse Compression.
-* **Background:** BSc (Hons) in Physics, University of Colombo (GPA: 3.55/4.0).
+* **Current Focus:** Ultrafast Laser Systems & Nonlinear Optics.
+* **Background:** BSc (Hons) in Physics, University of Colombo.
 
 ## 💻 Simulations & Research
 
