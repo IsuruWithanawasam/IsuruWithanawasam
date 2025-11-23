@@ -87,7 +87,7 @@ Second Class Upper · GPA: **3.55/4.00**
 ---
 
 ## 📊 GitHub Overview
-![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruChanilka&show_icons=true&hide_title=true)
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true)
 
 ---
 
