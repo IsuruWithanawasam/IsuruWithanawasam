@@ -87,7 +87,11 @@ Second Class Upper · GPA: **3.55/4.00**
 ---
 
 ## 📊 GitHub Overview
+
+![Visitor Count](https://komarev.com/ghpvc/?username=IsuruWithanawasam&style=flat)
+
 ![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true)
+
 
 ---
 
