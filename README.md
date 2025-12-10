@@ -41,6 +41,6 @@ I am a physicist bridging the gap between **experimental photonics** and **compu
 
 <div align="center">
 
-![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsuruWithanawasam&show_icons=true&hide_title=true&theme=radical)
 
 </div>
