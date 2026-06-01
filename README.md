@@ -42,6 +42,6 @@ I am a physicist working at the intersection of **experimental biophotonics** an
 | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
 | ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks&logoColor=white) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) | ![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFD400?logo=ni&logoColor=black) |
-| **LaTeX** | **OriginLab** | **Git** |
+| **LaTeX** | ![COMSOL](https://img.shields.io/badge/COMSOL-Multiphysics-FF6B35?style=flat) **OriginLab** | **Git** |
 
 ---
