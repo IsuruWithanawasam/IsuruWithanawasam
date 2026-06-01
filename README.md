@@ -25,16 +25,16 @@ I am a physicist working at the intersection of **experimental biophotonics** an
 
 ### **🫁 Biomedical Optics & Tissue Photonics**
 * **Monte Carlo Simulations:** GPU-accelerated photon transport in layered tissue geometries using **pmcx/MCX** for GASMAS feasibility studies.
-* **GASMAS Signal Modeling:** Per-photon Beer–Lambert weighting and air pathlength distribution analysis for non-invasive lung monitoring.
-* **Tissue-Mimicking Phantoms:** Optical characterisation of gelatin-based thorax phantoms via Time-of-Flight Spectroscopy (TOFS).
 
-### **🔬 Optical Instrumentation & Imaging**
-* **OCT Systems:** Built and characterised full-field OCT systems; frequency-domain interferometry and Fourier optics.
-* **Hyperspectral Imaging:** Analysis of SWIR remote sensing data (up to 1693 nm) with custom algorithms.
-* **Spectroscopy Automation:** Processing large datasets from GASMAS, Raman, and scattering experiments using **Pandas & SciPy**.
+### **🔬 Optical Instrumentation & Data Analysis**
+* **Spectroscopy & Raman Analysis:** Processing and automated analysis of spectroscopic datasets using **Pandas & SciPy**.
+* **Hyperspectral Imaging:** Analysis of remote sensing data with custom algorithms.
+* **Chemometrics:** Multivariate data analysis and spectral decomposition for optical datasets.
+
+### **⚡ Ultrafast & Femtosecond Optics**
+* **Laser Pulse Simulation:** Modeling femtosecond pulse propagation and nonlinear light-matter interactions using **Python/MATLAB**.
 
 ### **📊 Experimental Data Analysis**
-* **Graphene Characterization:** Statistical analysis of adsorption performance (Presented at APS March Meeting 2024).
 
 ## 🛠️ Tech & Lab Stack
 
